@@ -5,7 +5,7 @@ hide: true
 show_reading_time: false
 ---
 
-### Hi! My name is [Dean Frohnhoefer]
+### Hi! My name is Dean Frohnhoefer
 
 ### Development Environment
 
