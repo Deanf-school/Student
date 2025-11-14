@@ -98,8 +98,8 @@ Flags are made using Wikipedia images
 ### Journey through Life
 
 Here is what I did at those places
-
-- 🏫 Lots of Elementary Schools in Tucson, LA, Honolulu, and Glendale (CA)
+-  Born In Virginia
+- 🏫 Moved to San Fransciso, went to  most of elementry school there
 - 🏫 Middle and High School in Glendale (CA), Hoover High graduated '77
 - 🎓 Glendale CA Community College, UCLA Extension, LA Wilshire Computer Tech School '77 to '79
 - ⛪ England, London Missionary for Church of Jesus Christ of Latter-day Saints '79 to '81
