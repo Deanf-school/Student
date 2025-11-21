@@ -4,4 +4,4 @@ title: Blogs
 search_exclude: true
 permalink: /blogs/
 ---
-# DEAN'S BLOG #
+# DEAN'S BLOG # 
