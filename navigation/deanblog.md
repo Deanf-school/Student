@@ -17,14 +17,14 @@ First I made the github account
 
 Then i made the reprository and then did the basic stuff
 
-**STEP 3**
+**STEP THREE**
 
 I then got the new computer and then set up the basic stuff there, and the after that i got VScode set up
 
-**STEP 4** 
+**STEP FOUR** 
 
 I spent alot of time  trying to find how to make the blog page
 
-**STEP 5** 
+**STEP FIVE** 
 
 I then added the blog page and added this stuff 
