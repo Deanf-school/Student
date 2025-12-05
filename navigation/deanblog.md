@@ -13,7 +13,7 @@ I am working with roger.
 
 First I made the github account 
 
-**STEP TWO** 
+**STEP TWO**
 
 Then i made the reprository and then did the basic stuff
 

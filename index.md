@@ -6,7 +6,7 @@ show_reading_time: false
 ---
 
 ### Hi! My name is Dean Frohnhoefer
-
+Hi
 ### Development Environment
 
 > Coding starts with tools, explore these tools and procedures with a click.
