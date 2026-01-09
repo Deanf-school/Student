@@ -64,9 +64,9 @@ Flags are made using Wikipedia images
     // Data array
     const living_in_the_world = [
     {flag: "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg", greeting: "Hey", description: "California - forever"},
-    {flag: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Oregon.svg", greeting: "Hi", description: "Oregon - 9 years"},
-    {flag: "https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_England.svg", greeting: "Alright mate", description: "England - 2 years"},
-    {flag: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Hawaii.svg", greeting: "Aloha", description: "Hawaii - 2 years"}
+    {flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Virginia.svg/960px-Flag_of_Virginia.svg.png?20250807185748", greeting: "Hi", description: "Virginia"},
+    {flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_San_Diego%2C_California.svg/960px-Flag_of_San_Diego%2C_California.svg.png?20220727153107", greeting: "Hey man", description: "San Diego"},
+    {flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Flag_of_San_Francisco%2C_California.svg/960px-Flag_of_San_Francisco%2C_California.svg.png?20220809152454", greeting: "Hello", description: "San Fransicos"}
     ];
 
     // Use the existing container
