@@ -136,9 +136,9 @@ Gallery of Pics, scroll to the right for more ...
   <img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1260/711/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/events/70th-anniversary/attraction/0237_DLR_70_Environmentals_05212025_JS_B-SUPERMOD-16x9.jpg?2025-06-04T20:48:29+00:00" alt="Image 1">
   <img src="https://www.travelmanagers.com.au/wp-content/uploads/2018/03/AdobeStock_116567811-kauai-hawaii-1-scaled.jpeg" alt="Image 2">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW_6h9l2IPUP9b-MveZR1kCwoBqoKDWjWNYQ&s" alt="Image 3">
-  <img src="{{site.baseurl}}/images/about/surf.jpg" alt="Image 4">
-  <img src="{{site.baseurl}}/images/about/john_lora.jpg" alt="Image 5">
-  <img src="{{site.baseurl}}/images/about/lora_fam.jpg" alt="Image 6">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEGLPY4yS9ud1lzHO4eykZzT75G602Twj7nw&s" alt="Image 4">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQdFy-6APOdKexaeZGzbfnCNBdP5-pMr1epg&s" alt="Image 5">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV4ih0LM2zITvPBBkWD8Dp0V-UqoDwEKlETQ&s" alt="Image 6">
   <img src="{{site.baseurl}}/images/about/lora_fam2.jpg" alt="Image 7">
   <img src="{{site.baseurl}}/images/about/pj_party.jpg" alt="Image 8">
   <img src="{{site.baseurl}}/images/about/trent_family.png" alt="Image 9">
