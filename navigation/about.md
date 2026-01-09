@@ -139,10 +139,10 @@ Gallery of Pics, scroll to the right for more ...
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEGLPY4yS9ud1lzHO4eykZzT75G602Twj7nw&s" alt="Image 4">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQdFy-6APOdKexaeZGzbfnCNBdP5-pMr1epg&s" alt="Image 5">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV4ih0LM2zITvPBBkWD8Dp0V-UqoDwEKlETQ&s" alt="Image 6">
-  <img src="{{site.baseurl}}/images/about/lora_fam2.jpg" alt="Image 7">
-  <img src="{{site.baseurl}}/images/about/pj_party.jpg" alt="Image 8">
-  <img src="{{site.baseurl}}/images/about/trent_family.png" alt="Image 9">
-  <img src="{{site.baseurl}}/images/about/claire.jpg" alt="Image 10">
-  <img src="{{site.baseurl}}/images/about/grandkids.jpg" alt="Image 11">
-  <img src="{{site.baseurl}}/images/about/farm.jpg" alt="Image 12">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQczW_EoeEtc4a7TVwkqAXTm2wBAzG_iesNkA&s" alt="Image 7">
+  <img src="https://cdn.sanity.io/images/nxpteyfv/goguides/dd05bddc197a1c9dba9ecb43e26b30af4dbcf4f9-1600x1066.jpg" alt="Image 8">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAxl31XQ4wdCuPhIHGUkPhfqKK22nQ-MnU5A&s" alt="Image 9">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSljOCpwjAap30ym3KAAOfXqnz88ULqSQbBhw&s" alt="Image 10">
+  <img src="https://i.ontraport.com/224876.603bb9ea495817eb09e14fea2c0eb64a.JPEG" alt="Image 11">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Wbmdv0D8z8-m0v0Agj3hq_hpuegoIz6epw&s" alt="Image 12">
 </div>
