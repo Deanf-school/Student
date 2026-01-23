@@ -66,7 +66,7 @@ Flags are made using Wikipedia images
     {flag: "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg", greeting: "Hey", description: "California - forever"},
     {flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Virginia.svg/960px-Flag_of_Virginia.svg.png?20250807185748", greeting: "Hi", description: "Virginia"},
     {flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_San_Diego%2C_California.svg/960px-Flag_of_San_Diego%2C_California.svg.png?20220727153107", greeting: "Hey man", description: "San Diego"},
-    {flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Flag_of_San_Francisco%2C_California.svg/960px-Flag_of_San_Francisco%2C_California.svg.png?20220809152454", greeting: "Hello", description: "San Fransicos"}
+    {flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Flag_of_San_Francisco%2C_California.svg/960px-Flag_of_San_Francisco%2C_California.svg.png?20220809152454", greeting: "Hello", description: "San Fransicos"},
     ];
 
     // Use the existing container
@@ -111,6 +111,73 @@ Flags are made using Wikipedia images
     }
 </script>
 
+
+<script>
+    const outputElement = document.getElementById('grid_container');
+
+// Clear the output
+outputElement.innerHTML = '';
+
+// Create a div container with id
+const container = document.createElement('div');
+container.id = 'grid_container';
+
+// Style the container 
+container.style.border = '2px dashed';
+container.style.padding = '10px';
+
+// Add sample text
+container.textContent = 'Container for grid created!.';
+
+// Add containter to output 
+outputElement.appendChild(container);
+
+
+// Clear the output
+outputElement.innerHTML = '';
+
+// Define the data array of flagobjects
+const living_in_the_world = [
+  {
+    flag: "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg",
+    greeting: "Hey",
+    description: "California - forever"
+  },
+  {
+    flag: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Oregon.svg",
+    greeting: "Hi",
+    description: "Oregon - 9 years"
+  },
+  {
+    flag: "https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_England.svg",
+    greeting: "Alright mate",
+    description: "England - 2 years"
+  },
+  {
+    flag: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Hawaii.svg",
+    greeting: "Aloha",
+    description: "Hawaii - 2 years"
+  }
+];
+
+// Create a pre container with id
+const container = document.createElement('pre');
+container.id = 'grid_container';
+
+/// Style the container for JSON display 
+container.style.border = '2px dashed';
+container.style.padding = '10px';
+container.style.borderRadius = '8px';
+container.style.overflow = 'auto';
+
+// Add the Flag data as JSON text 
+container.textContent = JSON.stringify(living_in_the_world, null, 2);
+
+// Add containter to output 
+outputElement.appendChild(container);
+
+
+</script>
 
 ### Journey through Life
 
