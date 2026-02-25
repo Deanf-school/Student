@@ -43,6 +43,18 @@ Hi
             Turtle
         </div>
     </a>
+    <a href="https://deanf-school.github.io/Student/about/ style="text-decoration: none;">
+        <div style="background-color: #00FF00; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+           about
+        </div>
+         <a href="https://deanf-school.github.io/Student/js/hwreview"text-decoration: none;">
+        <div style="background-color: #00FF00; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+           hw review 
+        </div>
+         <a href="https://deanf-school.github.io/Student/js/acomp"text-decoration: none;">
+        <div style="background-color: #00FF00; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+           accomplish
+        </div>
 </div>
 
 <br>
